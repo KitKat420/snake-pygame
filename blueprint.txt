@@ -1,0 +1,11 @@
+#1 setup pygame
+#2 create display surface
+#3 create snake
+#4 move snake
+#5 detect collusion with wall
+#6 create food pellets
+#7 generate random coordinates for food pellets
+#8 detect collusion between snake and food pellets
+#9 create scoreboard
+#10 persist highscores
+#11 end
